@@ -1,0 +1,10 @@
+# Raw packet captures are excluded by default because they may contain sensitive traffic.
+*.pcap
+*.pcapng
+*.cap
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
